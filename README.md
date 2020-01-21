@@ -11,3 +11,11 @@ Dependencies used
 - kotlinx-coroutines-core-js
 
 
+To run the the project after cloning
+
+1. cd kotlin-js-react-gradle
+2. Run the command in your cmd or terminal (make sure gradle and other environment properties are setup)
+
+    `./gradlew -continous run`
+    
+The project will open in the browser on port 8080 i.e http://localhost:8080
