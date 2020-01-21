@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin-react-gradle-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/../kotlin-js-react-gradle/build/libs</output-path>
+    <root id="archive" name="kotlin-react-gradle-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
