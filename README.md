@@ -18,4 +18,8 @@ To run the the project after cloning
 
     `./gradlew -continous run`
     
+    OR
+    
+    `gradle browserRun  --continuous`
+    
 The project will open in the browser on port 8080 i.e http://localhost:8080
